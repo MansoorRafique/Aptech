@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC11</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>92e82bd2-e949-4759-a752-e3cbd308704f</PackageIdentityName>
+    <IntermediateOutputPath>D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>155E6BA9C4E5BB51E2C50928BFD2AA61A675D8DF82373851B7213ED6870A9C4E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>92e82bd2-e949-4759-a752-e3cbd308704f_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>92e82bd2-e949-4759-a752-e3cbd308704f_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>92e82bd2-e949-4759-a752-e3cbd308704f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-23T08:47:11.671</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\bin\Debug\PanelsInStoreApp.exe">
+      <PackagePath>PanelsInStoreApp.exe</PackagePath>
+      <Modified>2015-12-23T09:03:01.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\desktop.png">
+      <PackagePath>Assets\desktop.png</PackagePath>
+      <Modified>2015-12-23T07:59:18.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\Mail.png">
+      <PackagePath>Assets\Mail.png</PackagePath>
+      <Modified>2015-12-23T07:33:43.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\Music.png">
+      <PackagePath>Assets\Music.png</PackagePath>
+      <Modified>2015-12-23T08:46:39.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\store.png">
+      <PackagePath>Assets\store.png</PackagePath>
+      <Modified>2015-12-23T08:00:24.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-23T07:18:37.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-23T09:03:00.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\bin\Debug\PanelsInStoreApp.xr.xml">
+      <PackagePath>PanelsInStoreApp.xr.xml</PackagePath>
+      <Modified>2015-12-23T09:03:00.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual Studio 2013\Projects\PanelsInStoreApp\PanelsInStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-23T08:47:11.565</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

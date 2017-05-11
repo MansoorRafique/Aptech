@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4d54b8e9-7d0f-4cb7-85e5-ed78784249c7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>942242E8E77B04B07AF55C23C9FAA5BD17B0F878686A55AB9514FC0438B87E5F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4d54b8e9-7d0f-4cb7-85e5-ed78784249c7_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4d54b8e9-7d0f-4cb7-85e5-ed78784249c7_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4d54b8e9-7d0f-4cb7-85e5-ed78784249c7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-21T13:19:54.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\bin\Debug\MediaElementWithFilePickerWindowsStoreAp.exe">
+      <PackagePath>MediaElementWithFilePickerWindowsStoreAp.exe</PackagePath>
+      <Modified>2016-03-22T18:05:57.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T21:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T21:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T21:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T21:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-21T13:19:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-22T18:05:57.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\bin\Debug\MediaElementWithFilePickerWindowsStoreAp.xr.xml">
+      <PackagePath>MediaElementWithFilePickerWindowsStoreAp.xr.xml</PackagePath>
+      <Modified>2016-01-21T14:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\MediaElementWithFilePickerWindowsStoreAp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-21T13:19:54.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

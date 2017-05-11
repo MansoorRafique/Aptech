@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="PanelsInStoreApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PanelsInStoreApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Canvas>
+            <Rectangle Canvas.ZIndex="1" Height="100" Width="200" Canvas.Top="59" Canvas.Left="51">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="Assets/desktop.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Canvas.ZIndex="0" Fill="#FF24B3C1" Height="150" Width="200" Canvas.Left="51" Canvas.Top="42" />
+            <TextBlock Canvas.Left="64" TextWrapping="Wrap" Text="Desktop" Canvas.Top="164" FontSize="20" RenderTransformOrigin="-0.126,0.494"/>
+        </Canvas>
+        
+        <Canvas Margin="240,0">
+            <Rectangle Canvas.ZIndex="1" Height="100" Width="200" Canvas.Top="59" Canvas.Left="51">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="Assets/desktop.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Canvas.ZIndex="0" Fill="#FF24B3C1" Height="150" Width="200" Canvas.Left="51" Canvas.Top="42" />
+            <TextBlock Canvas.Left="64" TextWrapping="Wrap" Text="Desktop" Canvas.Top="164" FontSize="20" RenderTransformOrigin="-0.126,0.494"/>
+        </Canvas>
+       
+    </Grid>
+</Page>
