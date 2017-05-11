@@ -1,0 +1,64 @@
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\App.xbf
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\MainPage.xbf
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.xr.xml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\resources.pri
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\AppxManifest.xml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.build.appxrecipe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.g.i.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.g.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.g.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.xaml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.xbf
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.xaml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.xbf
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\ContextMenuInStoreApp.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\ContextMenuInStoreApp.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\priconfig.xml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\layout.resfiles
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\resources.resfiles
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\pri.resfiles
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\qualifiers.txt
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Student\Documents\Visual Studio 2013\Projects\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\App.xbf
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\MainPage.xbf
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.xr.xml
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.exe
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.pdb
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\resources.pri
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\AppxManifest.xml
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.build.appxrecipe
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.g.i.cs
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.xaml
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.xaml
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\App.xbf
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MainPage.xbf
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\ContextMenuInStoreApp.exe
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\ContextMenuInStoreApp.pdb
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\priconfig.xml
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\layout.resfiles
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\resources.resfiles
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\pri.resfiles
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\qualifiers.txt
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\ProjectArchitectures.txt

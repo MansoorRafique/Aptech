@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3991446c-de7b-45bf-8e5f-a6cfa2fd8b3c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D99D5F1440C0C8B56B0DEBDB6E1C7F88F7FE82840B72AA949963DA65E2519968</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3991446c-de7b-45bf-8e5f-a6cfa2fd8b3c_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3991446c-de7b-45bf-8e5f-a6cfa2fd8b3c_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3991446c-de7b-45bf-8e5f-a6cfa2fd8b3c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-04T21:53:43.081</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.exe">
+      <PackagePath>ContextMenuInStoreApp.exe</PackagePath>
+      <Modified>2016-03-23T05:52:55.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-04T21:53:40.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-04T21:53:40.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\ContextMenuInStoreApp.xr.xml">
+      <PackagePath>ContextMenuInStoreApp.xr.xml</PackagePath>
+      <Modified>2016-03-04T21:53:40.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\ContextMenuInStoreApp\ContextMenuInStoreApp\ContextMenuInStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-04T21:53:42.158</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
