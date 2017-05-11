@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a74ba038-b75f-4787-94fd-3eb8e3826e67</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\Caching.exe">
+      <PackagePath>Caching.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\page2.xbf">
+      <PackagePath>page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\page3.xbf">
+      <PackagePath>page3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\page4.xbf">
+      <PackagePath>page4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\Caching.xr.xml">
+      <PackagePath>Caching.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

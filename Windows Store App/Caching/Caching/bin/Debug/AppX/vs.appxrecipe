@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a74ba038-b75f-4787-94fd-3eb8e3826e67</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C2BEAAE587D7727A0DDB81437506D7082189F5803AEBC5596925F8A098EA96EE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a74ba038-b75f-4787-94fd-3eb8e3826e67_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a74ba038-b75f-4787-94fd-3eb8e3826e67_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a74ba038-b75f-4787-94fd-3eb8e3826e67</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-03T07:29:57.385</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\Caching.exe">
+      <PackagePath>Caching.exe</PackagePath>
+      <Modified>2016-03-18T15:26:39.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-03T07:17:35.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-02-03T07:29:56.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\page2.xbf">
+      <PackagePath>page2.xbf</PackagePath>
+      <Modified>2016-02-03T07:29:56.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\page3.xbf">
+      <PackagePath>page3.xbf</PackagePath>
+      <Modified>2016-02-03T07:29:56.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\page4.xbf">
+      <PackagePath>page4.xbf</PackagePath>
+      <Modified>2016-02-03T07:29:56.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\Caching.xr.xml">
+      <PackagePath>Caching.xr.xml</PackagePath>
+      <Modified>2016-02-03T07:29:56.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\Caching\Caching\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-03T07:29:57.168</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
