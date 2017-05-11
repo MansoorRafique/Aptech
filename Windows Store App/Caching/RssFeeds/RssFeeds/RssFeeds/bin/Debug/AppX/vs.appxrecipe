@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TEACHER</Machine>
+    <WindowsUser>Teacher-PC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a36a3cbd-229c-4165-a94a-70fa74a2cc6c</PackageIdentityName>
+    <IntermediateOutputPath>E:\RssFeeds\RssFeeds\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>374689637666656F6A52150778F4AB7C1EAE089156D407FC5EE4BE7D150AC3BB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a36a3cbd-229c-4165-a94a-70fa74a2cc6c_1.0.0.0_neutral__75374jjvw5v7j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a36a3cbd-229c-4165-a94a-70fa74a2cc6c_75374jjvw5v7j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a36a3cbd-229c-4165-a94a-70fa74a2cc6c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Teacher-PC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\RssFeeds\RssFeeds\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-10T08:40:25.023</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\bin\Debug\RssFeeds.exe">
+      <PackagePath>RssFeeds.exe</PackagePath>
+      <Modified>2016-03-12T08:53:47.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-10T08:40:23.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-12T08:53:23.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\bin\Debug\RssFeeds.xr.xml">
+      <PackagePath>RssFeeds.xr.xml</PackagePath>
+      <Modified>2016-03-12T08:50:09.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\RssFeeds\RssFeeds\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-10T08:40:24.449</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

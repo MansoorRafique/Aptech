@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="RssFeeds.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RssFeeds"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="540*"/>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="71*"/>
+            <RowDefinition Height="66*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"/>
+            <ColumnDefinition Width="1039*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Get Feed" Height="50" Width="300" Margin="10" Grid.Column="0" Grid.Row="2" Click="Button_Click"/>
+        <TextBox x:Name="link" Text="http://feeds.abcnews.com/abcnews/topstories" Height="50" Grid.Column="0" Grid.Row="1" Width="300"/>
+        <TextBlock x:Name="networkInformatin" FontSize="15" Grid.Row="3" Grid.Column="0"/>
+        <ListBox x:Name="listItem" DisplayMemberPath="Title.Text" Grid.Column="0" Grid.Row="0" SelectionChanged="listItem_SelectionChanged"/>
+        <WebView x:Name="websummary" Grid.Column="1"/>
+        <TextBlock x:Name="title" Grid.Column="1" Grid.Row="1"/>
+    </Grid>
+</Page>
