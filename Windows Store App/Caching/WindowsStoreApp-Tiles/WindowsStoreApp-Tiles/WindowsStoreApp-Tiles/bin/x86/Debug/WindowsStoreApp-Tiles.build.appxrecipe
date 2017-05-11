@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC3</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>f744647b-71e1-4fee-b29d-f43b4da68ac0</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\WindowsStoreApp-Tiles.exe">
+      <PackagePath>WindowsStoreApp-Tiles.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\car.jpg">
+      <PackagePath>Assets\car.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\lam.jpg">
+      <PackagePath>Assets\lam.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\wide.scale-100.jpg">
+      <PackagePath>Assets\wide.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\ln.png">
+      <PackagePath>Assets\ln.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\WindowsStoreApp-Tiles.xr.xml">
+      <PackagePath>WindowsStoreApp-Tiles.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

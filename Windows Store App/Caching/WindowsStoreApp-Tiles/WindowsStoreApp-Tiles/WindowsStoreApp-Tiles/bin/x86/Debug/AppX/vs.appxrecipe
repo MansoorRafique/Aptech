@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC3</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>f744647b-71e1-4fee-b29d-f43b4da68ac0</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>05F0D4F62C1194310F1684536AA8CFF4937C94E940E5E373FBC8B5A27C911125</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f744647b-71e1-4fee-b29d-f43b4da68ac0_1.0.0.0_x86__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f744647b-71e1-4fee-b29d-f43b4da68ac0_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f744647b-71e1-4fee-b29d-f43b4da68ac0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-01T08:45:09.986</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\WindowsStoreApp-Tiles.exe">
+      <PackagePath>WindowsStoreApp-Tiles.exe</PackagePath>
+      <Modified>2016-02-01T08:40:01.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2016-02-01T08:08:29.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\car.jpg">
+      <PackagePath>Assets\car.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-01T08:13:56.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\lam.jpg">
+      <PackagePath>Assets\lam.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-01T08:21:08.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\wide.scale-100.jpg">
+      <PackagePath>Assets\wide.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-01T08:26:07.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\ln.png">
+      <PackagePath>Assets\ln.png</PackagePath>
+      <Modified>2016-02-01T08:39:51.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2016-02-01T07:50:40.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-01T08:03:58.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-02-01T08:03:58.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\WindowsStoreApp-Tiles.xr.xml">
+      <PackagePath>WindowsStoreApp-Tiles.xr.xml</PackagePath>
+      <Modified>2016-02-01T08:03:23.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsStoreApp-Tiles\WindowsStoreApp-Tiles\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-01T08:45:09.809</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
