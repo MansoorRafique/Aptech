@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1f32a123-c174-449c-b8a0-b72911c0df81</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A85123B9A9E1F5B1767BF181CC7D2D44A276BBDBE5BA8FD34BDA0DAE40EBBFCE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1f32a123-c174-449c-b8a0-b72911c0df81_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1f32a123-c174-449c-b8a0-b72911c0df81_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1f32a123-c174-449c-b8a0-b72911c0df81</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-03T08:10:19.344</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\bin\Debug\EncryptionAndDecryption.exe">
+      <PackagePath>EncryptionAndDecryption.exe</PackagePath>
+      <Modified>2016-03-18T15:29:35.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-03T08:10:17.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-02-03T08:10:17.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\bin\Debug\EncryptionAndDecryption.xr.xml">
+      <PackagePath>EncryptionAndDecryption.xr.xml</PackagePath>
+      <Modified>2016-02-03T08:10:16.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mansoor\Downloads\Compressed\3-Feb-2016\3-Feb-2016\EncryptionAndDecryption\EncryptionAndDecryption\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-03T08:10:18.462</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
