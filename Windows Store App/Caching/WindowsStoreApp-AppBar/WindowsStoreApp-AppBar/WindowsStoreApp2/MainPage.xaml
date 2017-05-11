@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="WindowsStoreApp2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WindowsStoreApp2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    <Page.TopAppBar>
+        <CommandBar>
+            <AppBarToggleButton Label="Shuffle" Icon="Shuffle"/>
+            <AppBarToggleButton Label="Repeat All" Icon="RepeatAll"/>
+            <AppBarSeparator/>
+            <AppBarButton Label="Back" Icon="Back"/>
+            <AppBarButton Label="Stop" Icon="Stop"/>
+            <AppBarButton Label="Play" Icon="Play"/>
+            <AppBarButton Label="Forward" Icon="Forward"/>
+            
+            <CommandBar.SecondaryCommands>
+                <AppBarToggleButton Label="Like" Icon="Like"/>
+                <AppBarToggleButton Label="Dislike" Icon="Dislike"/>
+            </CommandBar.SecondaryCommands>
+            
+        </CommandBar>
+    </Page.TopAppBar>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Label="Filter" Icon="Filter"/>
+            <AppBarButton Label="Find" Icon="Find"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button  x:Name="btnSubmit" Content="Button" HorizontalAlignment="Center"  VerticalAlignment="Center" Tapped="btnSubmit_Tapped" Click="btnSubmit_Click"/>
+    </Grid>
+</Page>

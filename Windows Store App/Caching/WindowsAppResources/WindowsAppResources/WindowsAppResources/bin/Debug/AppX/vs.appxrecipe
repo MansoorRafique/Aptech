@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC3</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a71745ac-6cc3-4203-816d-2a6fe941f9a3</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>63CF652D749695C47854178AEA60B3C33C10A5366F0D92F87DD30338E896274B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a71745ac-6cc3-4203-816d-2a6fe941f9a3_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a71745ac-6cc3-4203-816d-2a6fe941f9a3_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a71745ac-6cc3-4203-816d-2a6fe941f9a3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-06T07:27:18.393</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\bin\Debug\WindowsAppResources.exe">
+      <PackagePath>WindowsAppResources.exe</PackagePath>
+      <Modified>2016-01-06T07:28:56.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-06T07:27:17.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-06T07:28:56.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\bin\Debug\WindowsAppResources.xr.xml">
+      <PackagePath>WindowsAppResources.xr.xml</PackagePath>
+      <Modified>2016-01-06T07:28:56.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\WindowsAppResources\WindowsAppResources\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-06T07:27:17.940</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
