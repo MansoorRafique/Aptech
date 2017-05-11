@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="GridViewAndListView.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GridViewAndListView"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="CornflowerBlue">
+        <ListBox x:Name="abc" HorizontalAlignment="Left" Height="152" Margin="494,136,0,0" VerticalAlignment="Top" Width="257" FontSize="25" SelectionChanged="List_SelectionChanged_1">
+            <x:String>Select GridView</x:String>
+            <x:String>Select ListView</x:String>
+        </ListBox>
+        <TextBlock HorizontalAlignment="Left" Margin="388,62,0,679" Width="494" TextWrapping="Wrap" Text="Select ListView Or GridView From List" FontSize="24" FontWeight="Bold"/>
+    </Grid>
+</Page>

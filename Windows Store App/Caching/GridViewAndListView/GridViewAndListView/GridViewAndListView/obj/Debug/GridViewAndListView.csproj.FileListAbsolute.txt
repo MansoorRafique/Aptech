@@ -1,0 +1,80 @@
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.exe
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.pdb
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\bin\Debug\resources.pri
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\bin\Debug\AppxManifest.xml
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.build.appxrecipe
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\App.g.i.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\App.g.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.g.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.g.i.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.g.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\XamlTypeInfo.g.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\App.xaml
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.xaml
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.xaml
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\GridViewAndListView.exe
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\GridViewAndListView.pdb
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\priconfig.xml.intermediate
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\layout.resfiles.intermediate
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\resources.resfiles.intermediate
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\pri.resfiles.intermediate
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\priconfig.xml
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\layout.resfiles
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\resources.resfiles
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\pri.resfiles
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\LanguageQualifiers.txt
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\ProjectArchitectures.txt
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.g.i.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.g.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.g.i.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.g.cs
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.xaml
+c:\users\asp.aptechnk\documents\visual studio 2012\Projects\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.xaml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\App.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\BlankPage1.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\BlankPage2.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\Common\StandardStyles.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\MainPage.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.xr.xml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.exe
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.pdb
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\resources.pri
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\AppxManifest.xml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.build.appxrecipe
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\App.g.i.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\App.g.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.g.i.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.g.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.g.i.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.g.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.g.i.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.g.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.g.i.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.g.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\XamlTypeInfo.g.cs
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\App.xaml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.xaml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.xaml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.xaml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.xaml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\App.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage1.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\BlankPage2.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\Common\StandardStyles.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\MainPage.xbf
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\XamlSaveStateFile.xml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\GridViewAndListView.exe
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\GridViewAndListView.pdb
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\priconfig.xml
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\priconfig.xml.intermediate
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\layout.resfiles
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\layout.resfiles.intermediate
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\resources.resfiles
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\resources.resfiles.intermediate
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\pri.resfiles
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\pri.resfiles.intermediate
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\qualifiers.txt
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\qualifiers.txt.intermediate
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\ProjectArchitectures.txt

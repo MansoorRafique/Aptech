@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor Rafiq</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>11d796fc-7b69-4f2d-a0ff-339a4c87e050</PackageIdentityName>
+    <IntermediateOutputPath>F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>913BD5FAB70FFFE7DF5F21F0C15314748C0F39AA3A392394AAF2F26048665E3C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11d796fc-7b69-4f2d-a0ff-339a4c87e050_1.1.0.0_neutral__79ejfqzfbtfcm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11d796fc-7b69-4f2d-a0ff-339a4c87e050_79ejfqzfbtfcm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11d796fc-7b69-4f2d-a0ff-339a4c87e050</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:43:19.815</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.exe">
+      <PackagePath>GridViewAndListView.exe</PackagePath>
+      <Modified>2016-05-06T09:43:18.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2016-05-06T07:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2016-05-06T07:17:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+      <Modified>2016-05-06T07:17:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+      <Modified>2016-05-06T07:18:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+      <Modified>2016-05-06T07:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\download.png">
+      <PackagePath>Assets\download.png</PackagePath>
+      <Modified>2016-05-06T07:15:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-06T09:43:17.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2016-05-06T09:43:17.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\BlankPage2.xbf">
+      <PackagePath>BlankPage2.xbf</PackagePath>
+      <Modified>2016-05-06T09:43:17.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2016-05-06T09:43:17.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-06T09:43:17.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\GridViewAndListView.xr.xml">
+      <PackagePath>GridViewAndListView.xr.xml</PackagePath>
+      <Modified>2016-05-06T09:43:16.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\GridViewAndListView\GridViewAndListView\GridViewAndListView\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-06T09:43:18.928</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
