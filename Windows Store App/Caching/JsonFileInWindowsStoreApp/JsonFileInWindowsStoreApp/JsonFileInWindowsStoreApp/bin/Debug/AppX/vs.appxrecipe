@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor Rafiq</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7c29f601-8987-4d90-9124-00e97c0dd388</PackageIdentityName>
+    <IntermediateOutputPath>F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C48AD32398D38761AAFE55029BE55FAFAD2FFDFD6881D1E3428B1839A83EA88F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7c29f601-8987-4d90-9124-00e97c0dd388_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7c29f601-8987-4d90-9124-00e97c0dd388_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7c29f601-8987-4d90-9124-00e97c0dd388</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-27T07:53:10.603</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\bin\Debug\JsonFileInWindowsStoreApp.exe">
+      <PackagePath>JsonFileInWindowsStoreApp.exe</PackagePath>
+      <Modified>2016-06-18T12:42:45.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-27T07:02:30.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-27T07:56:11.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\bin\Debug\JsonFileInWindowsStoreApp.xr.xml">
+      <PackagePath>JsonFileInWindowsStoreApp.xr.xml</PackagePath>
+      <Modified>2016-01-27T07:45:05.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\JsonFileInWindowsStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-27T07:53:10.478</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

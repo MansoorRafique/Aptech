@@ -1,0 +1,13 @@
+﻿[
+    {
+        "Id": 1,
+        "SSN": 123,
+        "Message": "whatever"
+
+    },
+    {
+        "Id": 2,
+        "SSN": 125,
+        "Message": "whatever"
+    }
+]
