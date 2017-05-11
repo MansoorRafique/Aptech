@@ -1,0 +1,64 @@
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.exe
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.pdb
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\bin\Debug\resources.pri
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\bin\Debug\AppxManifest.xml
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.build.appxrecipe
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.g.i.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.g.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.g.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.xaml
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.xaml
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\TilesInStoreApp.exe
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\TilesInStoreApp.pdb
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\priconfig.xml
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\layout.resfiles
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\resources.resfiles
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\pri.resfiles
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\LanguageQualifiers.txt
+C:\Users\Teacher\Documents\Visual Studio 2012\Projects\TilesInStoreApp\TilesInStoreApp\obj\Debug\ProjectArchitectures.txt
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\App.xbf
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\Common\StandardStyles.xbf
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\MainPage.xbf
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.xr.xml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.exe
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.pdb
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\resources.pri
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\AppxManifest.xml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.build.appxrecipe
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.g.i.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.g.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.g.i.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.g.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.g.i.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.g.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\XamlTypeInfo.g.cs
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.xaml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.xaml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.xaml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\App.xbf
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\Common\StandardStyles.xbf
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\MainPage.xbf
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\XamlSaveStateFile.xml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\TilesInStoreApp.exe
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\TilesInStoreApp.pdb
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\priconfig.xml
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\priconfig.xml.intermediate
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\layout.resfiles
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\layout.resfiles.intermediate
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\resources.resfiles
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\resources.resfiles.intermediate
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\pri.resfiles
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\pri.resfiles.intermediate
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\qualifiers.txt
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\qualifiers.txt.intermediate
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\ProjectArchitectures.txt

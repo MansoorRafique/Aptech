@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor Rafiq</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>378a6e35-3b45-4e3a-a24c-cb1c89942b82</PackageIdentityName>
+    <IntermediateOutputPath>F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5D7498C843B912D39F318447B777A9EFF3817D837A6D5F2FFD1D8C3CFC5AA522</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>378a6e35-3b45-4e3a-a24c-cb1c89942b82_1.1.0.0_neutral__aht0jpa5t3dfr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>378a6e35-3b45-4e3a-a24c-cb1c89942b82_aht0jpa5t3dfr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>378a6e35-3b45-4e3a-a24c-cb1c89942b82</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Teacher</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-18T12:31:59.864</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.exe">
+      <PackagePath>TilesInStoreApp.exe</PackagePath>
+      <Modified>2016-06-18T12:31:57.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\flower.jpg">
+      <PackagePath>Assets\flower.jpg</PackagePath>
+      <Modified>2015-09-06T02:53:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\small_logo.png">
+      <PackagePath>Assets\small_logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-06T02:16:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\square_logo.png">
+      <PackagePath>Assets\square_logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-06T02:15:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\Assets\wide_logo.png">
+      <PackagePath>Assets\wide_logo.png</PackagePath>
+      <Modified>2015-09-06T02:19:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-06-18T12:31:56.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2016-06-18T12:31:56.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-06-18T12:31:56.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\TilesInStoreApp.xr.xml">
+      <PackagePath>TilesInStoreApp.xr.xml</PackagePath>
+      <Modified>2016-06-18T12:31:56.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\ScheduledToastNotification\TilesInStoreApp\TilesInStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-18T12:31:58.719</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

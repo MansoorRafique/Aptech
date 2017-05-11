@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="378a6e35-3b45-4e3a-a24c-cb1c89942b82" Publisher="CN=Teacher" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>TilesInStoreApp</DisplayName>
+    <PublisherDisplayName>Teacher</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="TilesInStoreApp.App">
+      <VisualElements DisplayName="TilesInStoreApp" Logo="Assets\square_logo.png" SmallLogo="Assets\small_logo.png" Description="TilesInStoreApp" ForegroundText="light" BackgroundColor="#C72343" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" ShortName="GULL APP" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC3</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>848d66b6-bc89-49d2-86b5-4ba7597dd441</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>279BFBEAE5F1F68CC1A2CBEB2A933C6E9947761BC72F265FF6EA07A4B0068C9B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>848d66b6-bc89-49d2-86b5-4ba7597dd441_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>848d66b6-bc89-49d2-86b5-4ba7597dd441_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>848d66b6-bc89-49d2-86b5-4ba7597dd441</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-22T06:38:30.145</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\bin\Debug\ScrollViewerInWindowsStoreApp.exe">
+      <PackagePath>ScrollViewerInWindowsStoreApp.exe</PackagePath>
+      <Modified>2016-01-22T07:10:16.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-22T06:38:27.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-22T07:10:15.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\bin\Debug\ScrollViewerInWindowsStoreApp.xr.xml">
+      <PackagePath>ScrollViewerInWindowsStoreApp.xr.xml</PackagePath>
+      <Modified>2016-01-22T07:10:15.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\student\documents\visual studio 2013\Projects\ScrollViewerInWindowsStoreApp\ScrollViewerInWindowsStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-22T06:38:28.559</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
