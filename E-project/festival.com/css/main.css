@@ -1,0 +1,1011 @@
+
+
+/****** theme color code #D42642 *****/
+
+/* GLOBAL STYLE */
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400px;
+}
+
+ul li {
+	list-style: none;
+}
+a:hover {
+	outline: none;
+	text-decoration: none;
+	color:#D42642;
+}
+a:focus {
+	outline: none;
+	outline-offset: 0;
+}
+a {
+	text-decoration:none;
+	-webkit-transition: 600ms;
+	-moz-transition: 600ms;
+	-o-transition: 600ms;
+	transition: 600ms;
+	color:#000;
+}
+button:hover {
+	outline: none;
+	text-decoration: none;
+}
+button:focus {
+	outline: none;
+	outline-offset: 0;
+}
+
+button {
+	-webkit-transition: 600ms;
+	-moz-transition: 600ms;
+	-o-transition: 600ms;
+	transition: 600ms;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-site-1{
+	border-radius:0;
+	background-color:red;
+	font-size:24px;
+	
+}
+
+
+.btn-site-2{
+	
+}
+
+/*****header-----*/
+
+#header
+{
+	margin-top:0px;
+	padding:0px;
+}
+/******header top*****/
+
+#header-top{
+            padding-top:20px;
+
+	}
+
+/* Effect 11: text fill based on Lea Verou's animation http://dabblet.com/gist/6046779 */
+.cl-effect-11 a {
+	padding: 10px 0;
+	border-top: 2px solid #CCCCCC;
+	color: #0972b4;
+	text-shadow: none;
+} 
+
+.cl-effect-11 a::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	padding: 10px 0;
+	max-width: 0;
+	border-bottom: 2px solid #fff;
+	color: #fff;
+	content: attr(data-hover);
+	-webkit-transition: max-width 0.5s;
+	-moz-transition: max-width 0.5s;
+	transition: max-width 0.5s;
+}
+
+.cl-effect-11 a:hover::before,
+.cl-effect-11 a:focus::before {
+	max-width: 100%;
+}
+
+
+i.shopping-logo{
+	font-size:70px;
+    color:#000000;
+}
+
+i.shopping-logo:hover{
+	font-size:70px;
+	color:#D42642;
+	border-radius:8px;
+	transition:600ms;
+	-webkit-transition:600ms;
+	-o-transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	}
+	
+#txt-site	
+{
+	outline:none;
+	border:1px solid #D9D9D9;
+	box-shadow:none;
+}
+
+.login-menu ul li
+{
+	padding-bottom:10px;
+}
+.login-menu ul li a:hover
+{
+   color:#D42642;
+   -moz-transition:600ms;
+   -o-transition:600ms;
+   -ms-transition:600ms;
+   -webkit-transition:600ms;
+}
+
+.login-menu ul li a
+{
+	color:#595959;
+	text-decoration:none;
+	font-size:18px;
+	font-family:lancelot;
+	font-style:lancelot;
+}
+.login-menu ul li
+{
+	padding-bottom:10px;
+}
+
+
+/****header bottom strt*****/
+
+
+#header-bottom{
+	background-color:#D42642;
+	margin:30px 0px;
+	padding-left:20px;
+	height:75px;
+	text-align:center;
+	font-style:lancelot;
+	font-size:14px;
+	font-weight:bolder;
+	}
+	
+#header-bottom .fa{
+	font-size:20px;
+	font-style:lancelot;
+}
+
+
+/****header bottom end*****/
+
+
+/****section-start*****/
+
+#religion-type .religion-islam{
+	background-image:url(../images/Sultan-Ahmed-Mosque.jpg);
+	position:relative;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#religion-type .religion-christian{
+	position:relative;
+	}
+	
+#religion-type .religion-christian .religion-title{
+	position:absolute;
+	background-color:rgba(59,61,59,.5);
+	width:100%;
+	margin-top:347px;
+	color:#fff;
+	font-size:24px;
+	text-transform:uppercase;
+	text-align:center;
+	padding:10px 0;
+	font-family:lancelot;
+	font-weight:bolder;
+	font-style:lancelot;
+	}
+
+#religion-type .religion-buddhist{
+	position:relative;
+	}
+	
+#religion-type .religion-buddhist .religion-title{
+	position:absolute;
+	background-color:rgba(59,61,59,.5);
+	width:100%;
+	margin-top:347px;
+	color:#fff;
+	font-size:24px;
+	text-transform:uppercase;
+	text-align:center;
+	padding:10px 0;
+	font-family:lancelot;
+	font-weight:bolder;
+	font-style:lancelot;
+	}
+
+#religion-type .regilion-hinduism{
+	position:relative;
+	}
+	
+#religion-type .religion-hinduism .religion-title{
+	position:absolute;
+	background-color:rgba(59,61,59,.5);
+	width:95%;
+	margin-top:347px;
+	color:#fff;
+	font-size:24px;
+	text-transform:uppercase;
+	text-align:center;
+	padding:10px 0;
+	font-family:lancelot;
+	font-weight:bolder;
+	font-style:lancelot;
+}
+
+#religion-type .religion-islam .religion-title{
+	position:absolute;
+	background-color:rgba(59,61,59,.5);
+	width:100%;
+	margin-top:347px;
+	color:#fff;
+	font-size:24px;
+	text-transform:uppercase;
+	text-align:center;
+	padding:10px 0;
+	font-family:lancelot;
+	font-weight:bolder;
+	font-style:lancelot;
+}
+
+#religion-type .religion-hinduism{
+	background-image:url(../images/hinduism-img.jpg);
+}
+
+#religion-type .religion-christian{
+	background-image:url(../images/christian-img.jpg);
+}
+
+#religion-type .religion-buddhist{
+	background-image:url(../images/buddhists-img.png);
+}
+
+[title~="religion-box"]	{
+
+	height:400px;
+	margin-bottom:30px
+}
+
+#religion-type .religion-islam:hover{
+	opacity:0.7;
+	background-color:#FFF;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-type .religion-christian:hover{
+	opacity:0.7;
+	background-color:#FFF;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-type .religion-hinduism:hover{
+	opacity:0.7;
+	background-color:#FFF;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-type .religion-buddhist:hover{
+	opacity:0.7;
+	background-color:#FFF;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-type .religion-islam .religion-title:hover{
+    opacity:0.5;
+	background-color:#CCC;
+	color:#000;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;	
+}
+
+#religion-type .religion-buddhist .religion-title:hover{
+    opacity:0.5;
+	background-color:#CCC;
+	color:#000;	
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-type .religion-hinduism .religion-title:hover{
+    opacity:0.5;
+	background-color:#CCC;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+	color:#000;	
+}
+
+#religion-type .religion-christian .religion-title:hover{
+    opacity:0.5;
+	background-color:#CCC;
+	color:#000;	
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+
+/*Show case start*/
+[title~="book-box"]{
+	border:1px solid #f5f5f5;
+	height:320px;
+	text-align:center;	
+}
+
+.book-img{
+	padding:30px 0px 0px 30px;
+}
+
+.book-name a
+{
+	margin-top:5px;
+	font-size:30px;
+	font-family:lancelot;
+	color:#E06342;
+}
+
+.book-name a:hover
+{
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+	text-decoration:none;
+	color:#E06342;
+}
+
+.book-price a
+{
+	margin-top:5px;
+	font-size:18px;
+	font-family:lancelot;
+	color:#333;
+}
+
+.book-price a:hover
+{
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+	text-decoration:none;
+}
+
+.book-shop a
+{
+	margin-top:5px;
+	font-size:18px;
+	font-family:lancelot;
+	text-decoration:underline;
+	color:#333;
+}
+
+.book-shop a:hover
+{
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+	text-decoration:overline;	
+}
+/*Show case end*/
+
+/*products-section start*/
+
+#feature-products .h1 {
+	background:#F5F5F5;
+	margin-top:25px;
+	color:#16001E;
+	height:70px;
+	padding-top:15px;
+	font-style:lancelot;
+}
+
+#feature-products .products{
+	margin-top:20px;
+	height:350px;
+	padding-top:20px;
+	font-family:lancelot;
+	font-weight:bolder;
+	font-style:lancelot;
+}
+
+#feature-products .products:hover
+{
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+.text-center{
+	margin-top:15px;
+	color:#000;
+	font-size:24px;
+	font-style:lancelot;
+}
+
+.h2{
+	font-family:lancelot;
+	font-weight:bolder;
+	font-style:lancelot;
+	}
+
+#feature-products .products a	
+{	
+color:#D42642;
+font-size:24px;
+font-style:lancelot;
+}
+
+
+#feature-products .products a:hover{
+	text-decoration:none;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;	
+}
+
+/*products-section end*/
+
+/*footer-section start*/
+
+.footer-navigation 
+{
+	color:#888894;
+	font-size:20px;
+	margin-top:50px;
+	font-style:lancelot;
+}
+
+.footer-navigation .h3
+{
+	color:#000;
+	text-align:end;
+	font-size:36px;
+	font-weight:bold;
+	font-family:lancelot;
+	margin-right:15px;
+}
+
+.footer-navigation .h2
+{
+	color:#000;
+	text-align:left;
+	font-family:lancelot;
+	font-weight:bold;
+	font-size:36px;
+}
+
+.h2:hover{
+	color:#D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+.h3:hover{
+	color:#D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+
+.footer-navigation{
+	font-size:15px;
+}
+
+#txt-site1
+{
+	outline:none;
+	border:1px solid #D9D9D9;
+	box-shadow:none;
+}
+
+#social-icons 
+{
+	font-size:35px;
+	color:#DDDDDD;
+	padding:30px 20px 0px 0px;
+	font-style:lancelot;
+	text-align:end;
+}
+
+#social-icons a
+{
+	font-size:35px;
+	color:#DDDDDD;
+	padding:30px 20px 0px 0px;
+	margin-top:15px;
+}
+
+
+#social-icons a:hover
+{
+	color:#D42642;
+	 transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+.copyright
+{
+	 color:#888894;
+	font-size:14px;
+	margin-left:42px;
+	margin-top:50px;
+	font-style:lancelot;
+}
+
+.footer-navigation{
+	font-family:lancelot;
+
+}
+
+.footer-navigation a
+{
+	color:#888894;
+	font-family:lancelot;
+}
+.footer-navigation a:hover
+{
+	text-decoration:none;
+		color:#D42642;
+	 transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+
+}
+/*footer-section end*/
+
+/*about us start*/
+.aboutus span{
+	color:#999;
+}
+
+.aboutus{
+	border:1px solid #CCC;
+	margin-top:20px;
+	height:40px;
+	padding-left:15px;
+	padding-top:10px;
+}
+
+#about .h4{
+	margin-top:30px;
+	font-family:lancelot;
+	
+}
+
+#about .about-religion{
+	background-color:#F9F9F9;
+	padding:15px 0px 0px 30px;
+	border-radius:6px;
+	color:#D42642;
+}
+
+.about-religion .h4{
+	color:#D42642;
+	margin-top:30px;
+}
+
+.about-religion .p1{
+	color:#999;
+}
+
+#about .events{
+	border-bottom:2px solid #CCC;
+	margin:20px 20px 20px 10px;
+	text-align:center;
+	font-family:lancelot;
+	padding-bottom:20px;
+	font-size:16px;
+}
+
+#about .p6{
+	/*margin-left:55px;*/
+	font-family:lancelot;
+	font-size:14px;
+	line-height:18px;
+	color:#999;
+}
+
+#about .aboutmuslim
+{
+	margin-right:10px;
+	padding-top:10px;
+	font-family:lancelot;
+}
+
+#about .abouthindu
+{
+	margin-right:10px;
+	padding-top:10px;
+	font-family:lancelot;
+}
+
+#about .aboutchristian
+{
+	margin-right:10px;
+	padding-top:10px;
+	font-family:lancelot;
+}
+
+
+#about .aboutbuddhism
+{
+	margin-right:10px;
+	padding-top:10px;
+	font-family:lancelot;
+}
+
+
+#about .p5
+{
+	font-family:lancelot;
+	color:#999;
+	font-size:14px;
+	/*margin-left:30px;*/
+	text-align:left;
+}
+
+#about .p4
+{
+	color:#999;
+	font-family:lancelot;
+	font-size:14px;
+	text-align:left;
+	margin-left:10px;
+}
+
+#about .p3
+{
+	color:#999;
+	font-family:lancelot;
+	font-size:14px;
+	text-align:left;
+	margin-right:25px;
+}
+
+[title~="paragraph"]
+{
+	margin-top:25px;
+	font-family:lancelot;
+	font-size:14px;
+}
+
+.info
+{
+	color:#383737;
+	font-family:lancelot;
+	margin-left:10px;
+	margin-top:10px;
+	font-weight:bolder;
+	border-bottom:1px solid #ECECEC;
+	padding-bottom:15px;
+	font-size:24px;
+}
+
+#about .p7
+{
+	margin-left:0px;
+	font-family:lancelot;
+	font-size:14px;
+	color:#999;
+	font-size:16px;
+}
+/*about-us end*/
+
+/*contact us start*/
+.contact{
+	border:1px solid #CCC;
+	margin-top:20px;
+	height:50px;
+	padding-top:10px;
+	font-size:24px;
+	padding-bottom:25px;
+	padding-left:20px;
+	font-family:lancelot;
+	background-color:#F5F5F5;
+}
+
+#map-canvas{
+	margin-top:20px;
+}
+
+#map .h3{
+	border-bottom:1px solid #000;
+	margin-left:90px;
+	font-family:lancelot;
+}
+
+#map .adress-portion{
+	padding-right:50px;
+	border-bottom:1px solid #000;
+	margin-top:20px;
+	font-size:18px;
+	font-family:lancelot;
+}
+
+#map .firstname
+{
+	margin-left:75px;
+	font-family:lancelot;
+}
+
+.firstname p
+{
+	font-size:18px;
+}
+
+.firstname input
+{
+	border:1px solid #F1F1F1;
+}
+
+.paragraph1
+{
+	border-bottom:#CCC 1px solid;
+	color:#999;
+	font-family:lancelot;
+	margin:10px 0px 10px 0px;
+}
+
+.paragraph2{
+	color:#999;
+	font-family:lancelot;
+}
+
+.address-section{
+	 color:#D42642;
+	 font-family:lancelot;
+	 margin-top:10px;
+	 font-size:20px;
+}
+
+.telephone-section{
+	color:#D42642;
+	 font-family:lancelot;
+	 font-size:24px;
+}
+
+.address2-section{
+	color:#D42642;
+	 font-family:lancelot;
+	 font-size:24px;
+}
+
+.txt-area{
+	margin:15px 0px 0px 70px;
+	font-family:lancelot;
+}
+
+.txt-area textarea
+{
+	resize:none;
+	font-family:lancelot;
+	border:1px solid #F1F1F1;
+}
+
+.txt-area p
+{
+	font-size:18px;
+}
+
+.required
+{
+	margin:20px 0px 0px 75px;
+	font-family:lancelot;
+}
+
+.required p
+{
+	font-size:18px;
+	color:#E06578;
+}
+
+.btn1 button
+
+{
+	margin-left:75px;
+	background-color:#D42642;
+	color:#FBE9EB;
+	width:95px;
+	height:35px;
+}
+
+.btn1 button:hover
+{
+	background-color:#333;
+}
+
+/*gallery start*/
+
+#gallery-portion .image-section{
+	margin:20px 0px 0px 0px;
+}
+
+#gallery-portion .image-section img{
+	border-radius:8px;
+}
+
+.image-section .h2
+{
+	font-family:lancelot;
+	text-align:center;
+}
+
+#gallery-portion .image-section img:hover{
+	box-shadow:3px 5px 5px #D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+/*gallery-section-start*/
+#about p
+{
+font-family:lancelot;
+color:#666;
+}
+
+#religion-galleries .muslims-galleries img
+{
+	box-shadow:2px 2px 7px #D42642;
+	boreder-radius:8px;
+}
+
+
+#religion-galleries .hindu-galleries img
+{
+	box-shadow:2px 2px 7px #D42642;
+	boreder-radius:8px;
+}
+
+#religion-galleries .christian-galleries img
+{
+	box-shadow:2px 2px 7px #D42642;
+	boreder-radius:8px;
+}
+
+#religion-galleries .buddist-galleries img
+{
+	box-shadow:2px 2px 7px #D42642;
+	boreder-radius:8px;
+}
+
+#religion-galleries .muslims-galleries img:hover
+{
+	border:groove 15px #D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-galleries .hindu-galleries img:hover
+{
+	border:groove 15px #D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-galleries .christian-galleries img:hover
+{
+	border:groove 15px #D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+#religion-galleries .buddist-galleries img:hover
+{
+	border:groove 15px #D42642;
+	transition:600ms;
+	-moz-transition:600ms;
+	-ms-transition:600ms;
+	-o-transition:600ms;
+	-webkit-transition:600ms;
+}
+
+.h5{
+	margin-bottom:10px;
+}
+
+#about .event-img div:nth-child(2){
+	height:100px;
+}
+
+
+/*feedback section start*/
+.form
+{
+	line-height:24px;
+	font-family:lancelot;
+	font-size:18px;
+}
+
+.form h1
+{
+	font-family:lancelot;
+	font-size:46px;
+	text-align:center;
+}
+
+.form textarea
+{
+	resize:none;
+}
+
+#submit-btn
+{
+	background-color:#D42642;
+	color:#FBE9EB;
+	width:95px;
+	height:35px;
+}
+
+#submit-btn:hover
+{
+	background-color:#000;
+}
+/*feedback section end*/

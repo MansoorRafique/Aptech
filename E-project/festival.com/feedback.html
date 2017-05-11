@@ -1,0 +1,184 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Feedback</title>
+<link href="images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="css/menu.css">
+<link rel="stylesheet" type="text/css" href="css/hover.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+</head>
+<script type="text/javascript">
+
+function allowalphabet(){
+			if(event.keyCode >=48 && event.keyCode <=57){
+				event.returnValue = false;
+				
+			}
+			
+			else{
+			event.returnValue = true;	
+				
+			}
+}
+
+
+function allownumber(){
+			if(!(event.keyCode >=48 && event.keyCode <=57)){
+				event.returnValue = false;
+				
+			}
+			
+			else{
+			event.returnValue = true;	
+				
+			}
+}
+
+
+</script>
+<body>
+<header id="header"> 
+  <!-----header top start----->
+  <div id="header-top">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-5">
+          <div class="logo"> <img src="images/logo finally.JPG" width="200" height="130"  alt=""/> </div>
+        </div>
+        <div class="col-sm-7">
+          <div class="row">
+            <div class="col-sm-9">
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="login-menu pull-right">
+                    <ul class="list-inline">
+                      <li><a href="index.html">Home</a></li>
+                      <li> | </li>
+                      <li><a href="#">My Account</a></li>
+                      <li> | </li>
+                      <li><a href="#">My Wishlist</a></li>
+                      <li> | </li>
+                      <li><a href="#">Checkout</a></li>
+                      <li> | </li>
+                      <li><a href="#">Login</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-sm-12">
+                  <div class="search-bar pull-right">
+                    <div class="col-lg-8 pull-right">
+                      <div class="input-group">
+                        <input type="text" class="form-control" id="txt-site" width="35">
+                        <span class="input-group-btn">
+                        <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+                        </span> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <div ><i class="fa fa-shopping-cart shopping-logo"></i></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-----header top end-----> 
+  <!-----header bottom start----->
+  <div class="container">
+  <div class="row">
+  <div class="col-sm-12">
+  <div id="header-bottom">
+    <section class="color-9">
+      <nav class="cl-effect-9" id="cl-effect-9"> 
+      <a href="index.html"><span>Home</span><span><i class="fa fa-home"></i></span></a>
+       <a href="Gallery.html"><span>Gallery</span><span><i class="fa fa-photo"></i></span></a>
+        <a href="about.html"><span>Religion</span><span><i class="fa fa-child"></i></span></a>
+         <a href="Contact Us.html"><span>Contact Us</span><span><i class="fa fa-phone"></i></span></a>
+          <a href="feedback.html"><span>Feedback</span><span><i class="fa fa-file"></i></span></a> 
+          </nav>
+    </section>
+  </div>
+  </div>
+  </div>
+  </div>
+</header>
+<!-----header bottom end---->
+<!-----feedback section start------>
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<form method="get" class="form">
+<h1>Feedback Form</h1>
+<p>.Enter your name:</p>
+<input type="text" required placeholder="Enter your name" onKeyPress="allowalphabet();" >
+<p>.Enter your Age:</p>
+<input type="number" required  maxlength="2" placeholder="Enter your age" onKeyPress="allownumber();" >
+<p>.Enter your Email Address:</p>
+<input type="email" required placeholder="Enter your email">
+<p>Qestion Types:</p>
+<select>
+<option value=""></option>
+<option value="Muslims">Muslims</option>
+<option value="Hinduism">Hinduism</option>
+<option value="CHristians">CHristians</option>
+<option value="Buddhism">Buddhism</option>
+</select>
+<br>
+<p>Q.What does Islam teach?</p>
+<p>Q.Is Hinduism is a religion or a way of life?</p>
+<p>Q.What is the Christian life supposed to be like?</p>
+<p>Q.Is Buddhism a Religion?</p>
+<textarea cols="50" rows="5" required placeholder="write your answer..."></textarea>
+<p>Enter your Message:</p>
+<textarea cols="50" rows="5" required placeholder="write your message..."></textarea>
+<p><button type="submit" id="submit-btn">Submit</button></p>
+</form>
+</div>
+</div>
+</div>
+<!-----feedback section end------>
+<!----footer start---->
+ <footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="col-sm-6">
+          <ul class="footer-navigation">
+            <li class="h2">Information</li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="feedback.html">Feedback</a></li>
+            <li><a href="Contact Us.html">Site map</a></li>
+            <li><a href="Contact Us.html">Contact Us</a></li>
+          </ul>
+          <div class="copyright"><i class="fa fa-copyright"></i>2014 Festivals.com. All Rights Reserved. </div>
+        </div>
+        <div class="col-sm-6 pull-right">
+          <ul class="footer-navigation">
+            <li class="h3">Newsletter</li>
+            <li>
+              <div class="col-lg-6 pull-right">
+                <div class="input-group">
+                  <input type="text" class="form-control" id="txt-site1">
+                  <span class="input-group-btn">
+                  <button class="btn btn-default" type="button">Go!</button>
+                  </span> </div>
+              </div>
+            </li>
+            <li id="social-icons"><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-rss"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!----footer end---->
+</body>
+</html>
