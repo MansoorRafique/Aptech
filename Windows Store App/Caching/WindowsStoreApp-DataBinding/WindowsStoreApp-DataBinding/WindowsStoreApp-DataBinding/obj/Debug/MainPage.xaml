@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="WindowsStoreApp_DataBinding.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WindowsStoreApp_DataBinding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <StackPanel Orientation="Vertical">
+        <TextBlock Width="500" Height="50"  x:Name="txtEmployee" Text="{Binding}" FontSize="25" Foreground="Yellow"/>
+        <TextBlock Width="500" Height="50"  x:Name="txtEmpID" Text="{Binding EmpID}" FontSize="25" Foreground="Yellow"/>
+        <TextBlock Width="500" Height="50"  x:Name="txtEmpName" Text="{Binding EmpName}" FontSize="25" Foreground="Yellow"/>
+        <TextBlock Width="500" Height="50"  x:Name="txtEmpAge" Text="{Binding EmpAge}" FontSize="25" Foreground="Yellow"/>
+        <ComboBox Width="500" Height="50" x:Name="cbEmployee" ItemsSource="{Binding}" />
+    </StackPanel>
+        
+    
+</Page>
+
