@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L3PC11</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>19515cb4-5d2f-4449-87c7-ffac6a956a6c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>53B88F4C5A0C35C7AC6E109AA5ED438212AED07256B03A213F271AAFD6CD911D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19515cb4-5d2f-4449-87c7-ffac6a956a6c_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19515cb4-5d2f-4449-87c7-ffac6a956a6c_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19515cb4-5d2f-4449-87c7-ffac6a956a6c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-17T09:54:34.484</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\bin\Debug\BackGroundTask.exe">
+      <PackagePath>BackGroundTask.exe</PackagePath>
+      <Modified>2016-03-17T10:50:50.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackgroundTasks\bin\Debug\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+      <Modified>2016-03-17T09:29:18.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-17T09:43:57.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-17T10:50:50.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\bin\Debug\BackGroundTask.xr.xml">
+      <PackagePath>BackGroundTask.xr.xml</PackagePath>
+      <Modified>2016-03-17T09:43:57.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\Visual Studio 2013\Projects\BackGroundTask\BackGroundTask\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-17T10:50:51.275</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
