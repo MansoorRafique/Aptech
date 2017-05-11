@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="transition.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:transition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="Page_Loaded">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Loading Please Wait..." VerticalAlignment="Top" Height="162.12" Width="580.81" FontWeight="ExtraBold" FontSize="48" Margin="423.047,260.824,0,0" Foreground="#FF1631D6" SelectionHighlightColor="#FF971C10" RequestedTheme="Light" RenderTransformOrigin="0.482,0.501" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewX="2.978" TranslateX="4.264" SkewY="0.6" TranslateY="-3.463" ScaleX="1.003" ScaleY="0.998"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <ProgressRing HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.424,0.58" Height="191" Width="340" Margin="491,347,0,0" IsActive="True"/>
+
+    </Grid>
+</Page>

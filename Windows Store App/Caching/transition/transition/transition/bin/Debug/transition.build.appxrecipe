@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB4-115</Machine>
+    <WindowsUser>asp</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>55d55034-fd39-4380-9110-fda8749bc96f</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\transition.exe">
+      <PackagePath>transition.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\Animated_Welcome_.gif">
+      <PackagePath>Assets\Animated_Welcome_.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\welcome.png">
+      <PackagePath>Assets\welcome.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\nature1.jpg">
+      <PackagePath>Assets\nature1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\nature2.jpg">
+      <PackagePath>Assets\nature2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\nature3.jpg">
+      <PackagePath>Assets\nature3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\nature4.jpg">
+      <PackagePath>Assets\nature4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\Assets\nature5.jpg">
+      <PackagePath>Assets\nature5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\BlankPage2.xbf">
+      <PackagePath>BlankPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\transition.xr.xml">
+      <PackagePath>transition.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp.aptechnk\documents\visual studio 2013\Projects\transition\transition\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

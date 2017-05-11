@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="transition.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:transition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Blue">
+        <Image HorizontalAlignment="Left" Height="361" VerticalAlignment="Top" Width="1104" Margin="156,185,0,0" Source="Assets/welcome.png" Stretch="Fill"/>
+        <Button Content="Go to Next Page" Foreground="Black" Margin="430,624,0,50" Background="Brown" FontSize="34" Height="94" Width="371" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>
