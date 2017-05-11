@@ -1,0 +1,74 @@
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.g.i.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.g.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.g.i.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.g.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\XamlTypeInfo.g.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.xaml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.xbf
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\XamlSaveStateFile.xml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\App.xbf
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\MainPage.xbf
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\MyUserControl.xbf
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.xr.xml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.exe
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.pdb
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\resources.pri
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\AppxManifest.xml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.build.appxrecipe
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.g.i.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.g.cs
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.xaml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.xaml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.xbf
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.xbf
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\ControlsInWindowsStoreApp.exe
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\ControlsInWindowsStoreApp.pdb
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\priconfig.xml
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\priconfig.xml.intermediate
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\layout.resfiles
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\layout.resfiles.intermediate
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\resources.resfiles
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\resources.resfiles.intermediate
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\pri.resfiles
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\pri.resfiles.intermediate
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\qualifiers.txt
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\qualifiers.txt.intermediate
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\areeb c# work\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\App.xbf
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\MainPage.xbf
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\MyUserControl.xbf
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.xr.xml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.exe
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.pdb
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\resources.pri
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\AppxManifest.xml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\bin\Debug\ControlsInWindowsStoreApp.build.appxrecipe
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.g.i.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.g.i.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.xaml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.xaml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.xaml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\App.xbf
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MainPage.xbf
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MyUserControl.xbf
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\ControlsInWindowsStoreApp.exe
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\ControlsInWindowsStoreApp.pdb
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\priconfig.xml
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\layout.resfiles
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\resources.resfiles
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\pri.resfiles
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\qualifiers.txt
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mansoor\Downloads\Compressed\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\ControlsInWindowsStoreApp\obj\Debug\ProjectArchitectures.txt
