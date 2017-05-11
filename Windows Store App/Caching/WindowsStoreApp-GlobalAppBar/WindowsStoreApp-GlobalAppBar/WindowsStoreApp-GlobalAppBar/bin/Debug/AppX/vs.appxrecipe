@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TEACHER</Machine>
+    <WindowsUser>Teacher-PC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>afd71c2a-1153-486b-a0d4-73667ea84f4c</PackageIdentityName>
+    <IntermediateOutputPath>E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C59404D89CCE9AE898DFD32CB007F0735CE6B99827C4788BB769C2517B9CBDD8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>afd71c2a-1153-486b-a0d4-73667ea84f4c_1.0.0.0_neutral__75374jjvw5v7j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>afd71c2a-1153-486b-a0d4-73667ea84f4c_75374jjvw5v7j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>afd71c2a-1153-486b-a0d4-73667ea84f4c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Teacher-PC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-01T07:37:03.029</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\WindowsStoreApp-GlobalAppBar.exe">
+      <PackagePath>WindowsStoreApp-GlobalAppBar.exe</PackagePath>
+      <Modified>2016-01-01T07:42:07.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-01T07:30:19.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\AboutUs.xbf">
+      <PackagePath>AboutUs.xbf</PackagePath>
+      <Modified>2016-01-01T07:40:14.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\Contacts.xbf">
+      <PackagePath>Contacts.xbf</PackagePath>
+      <Modified>2016-01-01T07:30:19.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\LocalFramePage.xbf">
+      <PackagePath>LocalFramePage.xbf</PackagePath>
+      <Modified>2016-01-01T07:40:14.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-01T07:40:14.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\Services.xbf">
+      <PackagePath>Services.xbf</PackagePath>
+      <Modified>2016-01-01T07:32:51.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\WindowsStoreApp-GlobalAppBar.xr.xml">
+      <PackagePath>WindowsStoreApp-GlobalAppBar.xr.xml</PackagePath>
+      <Modified>2016-01-01T07:37:02.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-GlobalAppBar\WindowsStoreApp-GlobalAppBar\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-01T07:37:02.905</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

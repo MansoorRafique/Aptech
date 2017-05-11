@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="WindowsStoreApp_GlobalAppBar.LocalFramePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WindowsStoreApp_GlobalAppBar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.TopAppBar>
+        <CommandBar x:Name="commandBar">
+            <AppBarButton x:Name="btnAboutUs" Tapped="btnAboutUs_Tapped" Icon="Bookmarks" Label="About Us"/>
+            <AppBarButton x:Name="btnContactUs" Tapped="btnContactUs_Tapped" Icon="Bookmarks" Label="Contact Us"/>
+            <AppBarButton x:Name="btnServices" Tapped="btnServices_Tapped" Icon="Bookmarks" Label="Services"/>
+            <AppBarButton x:Name="btnHome" Tapped="btnHome_Tapped" Icon="Bookmarks" Label="Home"/>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="btnBack" Tapped="btnBack_Tapped" Icon="Back" Label="Back"/>
+                <AppBarButton x:Name="btnForward" Tapped="btnForward_Tapped" Icon="Forward" Label="Forward"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.TopAppBar>
+    <Frame x:Name="localFrame"/>
+    
+</Page>
