@@ -1,0 +1,1 @@
+E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2.csproj;neutral

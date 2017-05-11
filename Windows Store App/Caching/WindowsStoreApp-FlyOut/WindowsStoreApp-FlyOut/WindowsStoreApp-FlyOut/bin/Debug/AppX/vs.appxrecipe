@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC9</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cc1aaad0-0592-4874-b53c-cad405cbfdf3</PackageIdentityName>
+    <IntermediateOutputPath>C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E44AACE6E07C025F9B4CF8B613BD2E90BC255ED8AC460B4027CC5690BE283D85</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cc1aaad0-0592-4874-b53c-cad405cbfdf3_1.0.0.0_neutral__75374jjvw5v7j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cc1aaad0-0592-4874-b53c-cad405cbfdf3_75374jjvw5v7j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cc1aaad0-0592-4874-b53c-cad405cbfdf3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Teacher-PC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-30T20:02:52.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\bin\Debug\WindowsStoreApp-FlyOut.exe">
+      <PackagePath>WindowsStoreApp-FlyOut.exe</PackagePath>
+      <Modified>2016-01-01T06:49:48.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-30T20:02:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-30T20:18:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\bin\Debug\WindowsStoreApp-FlyOut.xr.xml">
+      <PackagePath>WindowsStoreApp-FlyOut.xr.xml</PackagePath>
+      <Modified>2015-12-30T20:18:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LanSchool Files\WindowsStoreApp-FlyOut\WindowsStoreApp-FlyOut\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-30T20:02:52.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

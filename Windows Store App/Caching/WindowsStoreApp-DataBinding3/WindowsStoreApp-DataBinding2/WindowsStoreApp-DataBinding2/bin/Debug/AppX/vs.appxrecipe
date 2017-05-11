@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC3</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85bbb858-96a0-4d62-87ab-9a2f15afee74</PackageIdentityName>
+    <IntermediateOutputPath>E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E13615AC9CE35D430F905E27510E337FFE32FEB202B07D32554A951694ED9BD2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85bbb858-96a0-4d62-87ab-9a2f15afee74_1.0.0.0_neutral__75374jjvw5v7j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85bbb858-96a0-4d62-87ab-9a2f15afee74_75374jjvw5v7j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85bbb858-96a0-4d62-87ab-9a2f15afee74</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Teacher-PC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-13T07:19:14.568</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\bin\Debug\WindowsStoreApp-DataBinding2.exe">
+      <PackagePath>WindowsStoreApp-DataBinding2.exe</PackagePath>
+      <Modified>2016-01-13T09:04:23.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2016-01-13T07:10:36.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2016-01-13T07:18:39.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2016-01-13T07:18:39.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+      <Modified>2016-01-13T07:18:39.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+      <Modified>2016-01-13T07:18:39.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-24T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-11T19:34:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-13T09:04:23.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\bin\Debug\WindowsStoreApp-DataBinding2.xr.xml">
+      <PackagePath>WindowsStoreApp-DataBinding2.xr.xml</PackagePath>
+      <Modified>2016-01-13T08:57:24.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WindowsStoreApp-DataBinding2\WindowsStoreApp-DataBinding2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-13T07:19:14.388</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
