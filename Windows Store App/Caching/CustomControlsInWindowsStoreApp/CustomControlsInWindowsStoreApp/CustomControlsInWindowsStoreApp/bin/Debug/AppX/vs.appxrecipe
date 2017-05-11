@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L4PC12</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ab58c07d-e638-4581-ad05-ac70e6c672c3</PackageIdentityName>
+    <IntermediateOutputPath>D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0083B47940E10E9F7F9A9B9B8DF6C63D4F5518108AB8BB3EA43F14748C13D2F7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ab58c07d-e638-4581-ad05-ac70e6c672c3_1.0.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ab58c07d-e638-4581-ad05-ac70e6c672c3_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ab58c07d-e638-4581-ad05-ac70e6c672c3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-01T09:44:21.652</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\CustomControlsInWindowsStoreApp.exe">
+      <PackagePath>CustomControlsInWindowsStoreApp.exe</PackagePath>
+      <Modified>2016-03-01T09:49:26.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-01T09:44:20.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-01T09:49:26.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+      <Modified>2016-03-01T09:49:26.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\CustomControlsInWindowsStoreApp.xr.xml">
+      <PackagePath>CustomControlsInWindowsStoreApp.xr.xml</PackagePath>
+      <Modified>2016-03-01T09:49:26.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\areeb c# work\CustomControlsInWindowsStoreApp\CustomControlsInWindowsStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-01T09:44:21.403</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
