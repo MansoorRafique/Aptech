@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor Rafiq</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>53a521dc-66f6-4a39-8a7d-873ae7f0c689</PackageIdentityName>
+    <IntermediateOutputPath>F:\C data\Compressed\grid division\grid division\grid division\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>34FC163DC5ADC78F2F53B4DA6FBB4F943838E023AC36C70059B5A7A0418678BE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>53a521dc-66f6-4a39-8a7d-873ae7f0c689_1.1.0.0_neutral__zn5xgtdvnn8sp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>53a521dc-66f6-4a39-8a7d-873ae7f0c689_zn5xgtdvnn8sp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>53a521dc-66f6-4a39-8a7d-873ae7f0c689</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Falak</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-19T06:58:59.489</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\grid division.exe">
+      <PackagePath>grid division.exe</PackagePath>
+      <Modified>2016-05-19T06:58:57.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\11.jpg">
+      <PackagePath>Assets\11.jpg</PackagePath>
+      <Modified>2016-04-15T10:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\33.jpg">
+      <PackagePath>Assets\33.jpg</PackagePath>
+      <Modified>2016-04-15T10:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\55.jpg">
+      <PackagePath>Assets\55.jpg</PackagePath>
+      <Modified>2016-04-15T10:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\66.jpg">
+      <PackagePath>Assets\66.jpg</PackagePath>
+      <Modified>2016-04-15T10:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\22.png">
+      <PackagePath>Assets\22.png</PackagePath>
+      <Modified>2016-04-15T10:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\44.png">
+      <PackagePath>Assets\44.png</PackagePath>
+      <Modified>2016-04-15T10:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-19T06:58:56.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2016-05-19T06:58:56.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-19T06:58:56.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\grid division.xr.xml">
+      <PackagePath>grid division.xr.xml</PackagePath>
+      <Modified>2016-05-19T06:58:56.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-19T06:58:57.601</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

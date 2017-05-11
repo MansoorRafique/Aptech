@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANSOORRAFIQ</Machine>
+    <WindowsUser>Mansoor Rafiq</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>53a521dc-66f6-4a39-8a7d-873ae7f0c689</PackageIdentityName>
+    <IntermediateOutputPath>F:\C data\Compressed\grid division\grid division\grid division\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\grid division.exe">
+      <PackagePath>grid division.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\11.jpg">
+      <PackagePath>Assets\11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\33.jpg">
+      <PackagePath>Assets\33.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\55.jpg">
+      <PackagePath>Assets\55.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\66.jpg">
+      <PackagePath>Assets\66.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\22.png">
+      <PackagePath>Assets\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\44.png">
+      <PackagePath>Assets\44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\grid division.xr.xml">
+      <PackagePath>grid division.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C data\Compressed\grid division\grid division\grid division\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
